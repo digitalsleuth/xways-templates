@@ -130,6 +130,3 @@ begin
             }[Max_nr_of_BAT_entries]
         endIf    
 End
-
-
-
